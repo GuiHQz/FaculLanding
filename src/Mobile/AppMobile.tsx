@@ -1,4 +1,5 @@
 import Content from "./components/content/Content"
+import Footer from "./components/footer/Footer"
 import NavBar from "./components/navBar/NavBar"
 import { Container } from "./styles"
 
@@ -9,6 +10,7 @@ function AppMobile() {
         <Container>
           <NavBar />
           <Content />
+          <Footer />
         </Container>
       </>
     )
