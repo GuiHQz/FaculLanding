@@ -5,7 +5,6 @@ export const Container = styled.div`
   width: 100%;
   height: 6rem;
   display: flex;
-  /* padding: 0.5rem 0; */
   align-items: center;
   background: ${theme.colors.green};
 `;
@@ -27,5 +26,5 @@ export const LogoArea = styled.div`
 `;
 
 export const MenuIcon = styled.img`
-    width: 50%;
+    width: 45%;
 `;
