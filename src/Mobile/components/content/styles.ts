@@ -64,6 +64,7 @@ export const BlockContent = styled.div`
   height: 80vh;
   display: flex;
   flex-direction: column;
+  margin-bottom: 10px;
 `;
 
 export const TitleArea = styled.div`
@@ -90,7 +91,7 @@ export const ImageArea = styled.div`
   overflow: hidden;
 
   img{
-    height: 100%;
+    height: 90%;
   }
 `;
 export const TextArea = styled.div`
@@ -98,7 +99,8 @@ export const TextArea = styled.div`
   height: 50%;
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 
   p{
     color: ${theme.colors.white};
