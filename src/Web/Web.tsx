@@ -9,11 +9,13 @@ import ImageThree from "../assets/images/contact-image.png";
 import { Contact } from "../data/text";
 import { AboutText } from "../data/text";
 import { OurCourses } from "../data/text";
+import { Content } from "./components/Content/Content";
 
 function Web() {
   return (
     <>
       <Navbar />
+      <Content />
       <InfoCard image={ImageOne} title="Sobre" text={AboutText} />
       <InfoCard
         image={ImageTwo}

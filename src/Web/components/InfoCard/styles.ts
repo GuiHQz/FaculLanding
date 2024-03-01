@@ -51,6 +51,6 @@ export const TextContent = styled.div`
 
   span {
     width: 30vw;
-    text-align: justify;
+    text-align: left;
   }
 `;

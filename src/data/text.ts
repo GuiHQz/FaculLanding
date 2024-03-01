@@ -16,15 +16,18 @@ Explore nossa lista abaixo e comece sua jornada de aprendizado hoje mesmo!
 `;
 
 export const Contact = `
-Estamos aqui para ajudar! Entre em contato conosco para obter mais
-informações sobre nossos cursos, inscrições, eventos ou quaisquer
-outras dúvidas que você possa ter. Nossa equipe dedicada está pronta
-para fornecer suporte e assistência personalizada.
+Estamos aqui para ajudar! Entre em contato conosco para obter mais informações sobre nossos cursos, inscrições, eventos ou 
+quaisquer outras dúvidas que você possa ter. Nossa equipe dedicada está pronta para fornecer suporte e assistência personalizada.
 
-Preencha o formulário abaixo ou envie um e-mail para [endereço de
-e-mail] e responderemos o mais rápido possível. Você também pode
-nos encontrar nas redes sociais - siga-nos no [lista de redes sociais]
-para ficar por dentro das últimas notícias e atualizações.
+Preencha o formulário abaixo ou envie um e-mail para [endereço de e-mail] e responderemos o mais rápido possível. 
+
+Você também pode nos encontrar nas redes sociais - siga-nos no [lista de redes sociais] para ficar por dentro das últimas notícias e atualizações.
 
 Estamos ansiosos para ouvir de você!
 `;
+
+export const Slogan = `
+Liberte seu talento
+Desbloqueie seu potencial
+Transforme seu futuro
+`
