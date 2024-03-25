@@ -20,7 +20,7 @@ Como citado anteriormente o objetivo era por em prática a criação de uma Land
 
 Nesse projeto, tivemos a liberdade de escolher algumas tecnologias que seriam úteis: 
 
-• ReactTS: Optamos por utilizar o TypeScript devido à sua capacidade de fornecer tipagem aos componentes e tags HTML. Isso nos permite garantir uma maior segurança durante o desenvolvimento, facilitando a detecção de erros e melhorando a manutenibilidade do código.
+• ReactTS: Optamos por utilizar o TypeScript devido à sua capacidade de fornecer tipagem aos componentes e tags HTML. Isso nos permite garantir uma maior segurança durante o desenvolvimento, facilitando a detecção de erros e melhorando a manutenção do código.
 
 • React-Scroll: Escolhemos essa biblioteca devido à sua utilidade, especialmente em Landing Pages desenvolvidas com React. Ela nos proporciona uma maneira simples e eficaz de implementar animações de rolagem suave, melhorando a experiência do usuário e a estética da página.
 
