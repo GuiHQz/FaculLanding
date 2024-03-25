@@ -4,7 +4,7 @@ Este projeto tem como objetivo representar uma Landing Page que faria parte de u
 
 ## Objetivos/Metas
 
-Como citado anteriormente o objetivo era por em prática a criação de uma Landin Page com as seguintes características:
+Como citado anteriormente o objetivo era por em prática a criação de uma Landing Page com as seguintes características:
 
 • Estudar a respeito sobre UX/UI, analisando os principais pontos que poderiam ser levados em consideração.
 
@@ -18,7 +18,7 @@ Como citado anteriormente o objetivo era por em prática a criação de uma Land
 
 ## Tecnlogias/Framework/Bibliotecas
 
-Nesse projeto, tivemos a liberdade de escolher algumas tecnlogias que seriam úteis para ser utilizadas: 
+Nesse projeto, tivemos a liberdade de escolher algumas tecnologias que seriam úteis: 
 
 • ReactTS: Optamos por utilizar o TypeScript devido à sua capacidade de fornecer tipagem aos componentes e tags HTML. Isso nos permite garantir uma maior segurança durante o desenvolvimento, facilitando a detecção de erros e melhorando a manutenibilidade do código.
 
